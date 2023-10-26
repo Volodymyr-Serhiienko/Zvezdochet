@@ -1,5 +1,5 @@
 # Zvezdochet
-## student OOP course project: (WinForms, ADO.NET, Sqlite).
+## Student OOP course project:
 - Slavian and Real Star astrology astro processor
 - astronomical calcs
 - astrological calcs
